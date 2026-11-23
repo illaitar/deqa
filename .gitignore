@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.pytest_cache/
+.DS_Store
+# веса и кэш признаков в гит не кладём
+*.pth
+*.npz
+runs/
